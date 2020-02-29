@@ -1,0 +1,19 @@
+{
+    "name": "BouncingIos",
+    "version": "1.0.0",
+    "description": "Disable ios boucing",
+    "cordova": {
+      "id": "disable-bouncer",
+      "platforms": [
+        "ios"
+      ]
+    },
+    "keywords": [
+      "cordova",
+      "camera",
+      "ecosystem:cordova",
+      "cordova-ios"
+    ],
+    "author": "Mangesh Datar",
+    "license": "MIT"
+  }
