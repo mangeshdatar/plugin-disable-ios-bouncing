@@ -15,5 +15,9 @@
       "cordova-ios"
     ],
     "author": "Mangesh Datar",
-    "license": "MIT"
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/dtrmangesh/plugin-disable-ios-bouncing"
+    }
   }
