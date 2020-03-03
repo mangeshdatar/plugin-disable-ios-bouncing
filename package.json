@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Disable ios boucing",
     "cordova": {
-      "id": "disable-bouncer",
+      "id": "cordova-disable-bounce",
       "platforms": [
         "ios"
       ]
