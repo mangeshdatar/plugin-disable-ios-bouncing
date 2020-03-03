@@ -18,6 +18,6 @@
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "https://github.com/dtrmangesh/plugin-disable-ios-bouncing"
+      "url": "git+https://github.com/dtrmangesh/plugin-disable-ios-bouncing"
     }
   }
